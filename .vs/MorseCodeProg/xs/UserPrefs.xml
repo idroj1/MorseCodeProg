@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9243F471-F566-473A-97B5-8104174B3807}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MorseCoder.tests/UnitTest1.cs">
+    <Files>
+      <File FileName="MorseCoder/MorseCoder.cs" Line="22" Column="37" />
+      <File FileName="MorseCoder.tests/UnitTest1.cs" Line="19" Column="30" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MorseCodeProg" expanded="True">
+            <Node name="MorseCoder" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="MorseCoder.tests" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MorseCoder.tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

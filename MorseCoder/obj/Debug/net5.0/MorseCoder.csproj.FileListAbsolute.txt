@@ -1,0 +1,12 @@
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/bin/Debug/net5.0/MorseCoder.deps.json
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/bin/Debug/net5.0/MorseCoder.dll
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/bin/Debug/net5.0/ref/MorseCoder.dll
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/bin/Debug/net5.0/MorseCoder.pdb
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/obj/Debug/net5.0/MorseCoder.csproj.AssemblyReference.cache
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/obj/Debug/net5.0/MorseCoder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/obj/Debug/net5.0/MorseCoder.AssemblyInfoInputs.cache
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/obj/Debug/net5.0/MorseCoder.AssemblyInfo.cs
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/obj/Debug/net5.0/MorseCoder.csproj.CoreCompileInputs.cache
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/obj/Debug/net5.0/MorseCoder.dll
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/obj/Debug/net5.0/ref/MorseCoder.dll
+/Users/jordi/Desktop/MorseCodeProg/MorseCoder/obj/Debug/net5.0/MorseCoder.pdb
